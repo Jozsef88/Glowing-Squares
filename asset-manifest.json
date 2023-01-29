@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Glowing-Squares/static/css/main.775fb3a2.css",
+    "main.js": "/Glowing-Squares/static/js/main.5026a450.js",
+    "index.html": "/Glowing-Squares/index.html",
+    "main.775fb3a2.css.map": "/Glowing-Squares/static/css/main.775fb3a2.css.map",
+    "main.5026a450.js.map": "/Glowing-Squares/static/js/main.5026a450.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.775fb3a2.css",
+    "static/js/main.5026a450.js"
+  ]
+}
